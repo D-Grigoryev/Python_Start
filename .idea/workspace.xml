@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="40ef106d-e715-4a14-9479-7a257f9331eb" name="Changes" comment="Добавлены файлы с заданиями к 1-у семинару">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-6-additionally.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-6-additionally.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="work" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674983326486</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавлены файлы с заданиями ко 2-у уроку">
+      <created>1674984404218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674984404219</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,7 +97,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="work" />
+                        <option value="lesson-2" />
                       </list>
                     </value>
                   </entry>
@@ -98,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлены файлы с заданиями к 1-у семинару" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены файлы с заданиями к 1-у семинару" />
+    <MESSAGE value="Добавлены файлы с заданиями ко 2-у уроку" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены файлы с заданиями ко 2-у уроку" />
   </component>
 </project>

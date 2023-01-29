@@ -12,3 +12,18 @@
 1. раз
 2. перерефриж
 """
+
+user_string = input('Введите слова через пробел, например -  раз два три: ').split(' ')
+
+
+def spl(st):
+    i = 0
+    for el in user_string:
+        if len(el) > 10:
+            print(f'{i + 1}. {el[0: 10]}')
+        else:
+            print(f'{i + 1}. {el}')
+            i += 1
+
+
+spl(user_string)
