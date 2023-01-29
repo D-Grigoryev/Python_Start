@@ -26,7 +26,6 @@ def create_list(elements):
 
 def change_position(lis):
     for i in range(0, len(lis) - 1, 2):
-        # print(range(0, len(lis) - 1, 2))
         lis[i], lis[i + 1] = lis[i + 1], lis[i]
         print(lis[i])
     return lis

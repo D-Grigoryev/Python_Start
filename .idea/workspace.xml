@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40ef106d-e715-4a14-9479-7a257f9331eb" name="Changes" comment="Добавлены файлы с заданиями к 1-у семинару">
+    <list default="true" id="40ef106d-e715-4a14-9479-7a257f9331eb" name="Changes" comment="Добавлены решения к основным заданиям 2-го семинара">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-6-additionally.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-6-additionally.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674984404219</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавлены решения к задания 2-го семинара">
+      <created>1674995702251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674995702252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлены файлы с заданиями к 1-у семинару" />
     <MESSAGE value="Добавлены файлы с заданиями ко 2-у уроку" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены файлы с заданиями ко 2-у уроку" />
+    <MESSAGE value="Добавлены решения к задания 2-го семинара" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены решения к задания 2-го семинара" />
   </component>
 </project>
