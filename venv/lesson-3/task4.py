@@ -35,7 +35,7 @@ def fill_database():
                    'единицы': input(f'Введите единицы подсчета: ')})
         goods.append(tur)
         i += 1
-        ans = input(f'Ввести новую позицию товара? Да/Нет: ').lower()
+        ans = input(f'Ввести новую позицию товара? Да/Нет:  ').lower()
     return goods
 
 
