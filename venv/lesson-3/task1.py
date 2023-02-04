@@ -28,5 +28,5 @@ def seasons_list(number, lis):
     return ret
 
 
-print(*seasons_dict(11, dict_1))
+print(*seasons_dict(10, dict_1))
 print(seasons_list(11, list_1))

@@ -18,4 +18,4 @@ def get_words(user_str):
     return [f'\t{i + 1}. {user_str.split(" ")[i][:10]}\n' for i in range(0, len(user_str.split(' ')))]
 
 
-print(*get_words('раз перерефрижерированность'))
+print(*get_words('раз перерефрижериророванность'))
