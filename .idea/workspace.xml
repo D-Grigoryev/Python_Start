@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40ef106d-e715-4a14-9479-7a257f9331eb" name="Changes" comment="Добавлены файлы с заданиями к 1-у семинару" />
+    <list default="true" id="40ef106d-e715-4a14-9479-7a257f9331eb" name="Changes" comment="Добавлены решения к основным заданиям 2-го семинара">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="D-Grigoryev" />
+        <option name="repository" value="Python_Start" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/dmitriy/Documents/Python_Start/venv/lesson-1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dmitriy/Documents/Python_Start/venv/lesson-1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv/lesson-1" />
@@ -60,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674983326486</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавлены файлы с заданиями ко 2-у уроку">
+      <created>1674984404218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674984404219</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлены решения к задания 2-го семинара">
+      <created>1674995702251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674995702252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,7 +99,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="work" />
+                        <option value="lesson-2" />
                       </list>
                     </value>
                   </entry>
@@ -88,6 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлены файлы с заданиями к 1-у семинару" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены файлы с заданиями к 1-у семинару" />
+    <MESSAGE value="Добавлены файлы с заданиями ко 2-у уроку" />
+    <MESSAGE value="Добавлены решения к задания 2-го семинара" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены решения к задания 2-го семинара" />
   </component>
 </project>

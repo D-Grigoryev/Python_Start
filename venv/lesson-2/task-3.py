@@ -12,3 +12,13 @@
 <class 'bool'>
 <class 'NoneType'>
 """
+
+elem = [5, "string", 0.15, True, None]
+
+
+def check_type_element(element):
+    for el in elem:
+        print(type(el))
+
+
+check_type_element(elem)
