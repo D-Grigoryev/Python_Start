@@ -1,0 +1,65 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"40ef106d-e715-4a14-9479-7a257f9331eb\" name=\"Changes\" comment=\"Добавлены решения к основным заданиям 2-го семинара\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/venv/lesson-2/task-5.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/venv/lesson-2/task-5.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/venv/lesson-2/task-7-additinally.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/venv/lesson-2/task-7-additinally.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/venv/lesson-2/task-8-additionally.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/venv/lesson-2/task-8-additionally.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"recentNewPullRequestHead\">\n      <RepoCoordinatesHolder>\n        <option name=\"owner\" value=\"D-Grigoryev\" />\n        <option name=\"repository\" value=\"Python_Start\" />\n      </RepoCoordinatesHolder>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2KzYr74fLymTfBCdbW1KPGLn1JT\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/dmitriy/Documents/Python_Start/venv/lesson-1&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/venv/lesson-1\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"40ef106d-e715-4a14-9479-7a257f9331eb\" name=\"Changes\" comment=\"\" />\n      <created>1674979073689</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1674979073689</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Добавлены файлы с заданиями к 1-у семинару\">\n      <created>1674983326486</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1674983326486</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"lesson-3\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Добавлены файлы с заданиями к 1-у семинару\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Добавлены файлы с заданиями к 1-у семинару\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9c4d2a824131eccbb94f4c1828a1d909cfb2e176)
++++ b/.idea/workspace.xml	(date 1675525820272)
+@@ -1,12 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="40ef106d-e715-4a14-9479-7a257f9331eb" name="Changes" comment="Добавлены решения к основным заданиям 2-го семинара">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-5.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-7-additinally.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-7-additinally.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/venv/lesson-2/task-8-additionally.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lesson-2/task-8-additionally.py" afterDir="false" />
+-    </list>
++    <list default="true" id="40ef106d-e715-4a14-9479-7a257f9331eb" name="Changes" comment="Добавлены решения к основным заданиям 3-го семинара" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -73,7 +68,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1674983326486</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Добавлены решения к основным заданиям 2-го семинара">
++      <created>1675525785768</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1675525785768</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Добавлены решения к основным заданиям 3-го семинара">
++      <created>1675525798641</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1675525798641</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Добавлены решения к основным заданиям 3-го семинара">
++      <created>1675525808297</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1675525808297</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -101,6 +117,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Добавлены файлы с заданиями к 1-у семинару" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены файлы с заданиями к 1-у семинару" />
++    <MESSAGE value="Добавлены решения к основным заданиям 2-го семинара" />
++    <MESSAGE value="Добавлены решения к основным заданиям 3-го семинара" />
++    <option name="LAST_COMMIT_MESSAGE" value="Добавлены решения к основным заданиям 3-го семинара" />
+   </component>
+ </project>
+\ No newline at end of file
